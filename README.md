@@ -13,7 +13,7 @@
 <a href="https://github.com/Ramlan666"><img title="Author" src="https://img.shields.io/badge/AUTHOR-XDJames-orange.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="https://github.com/XDJamesCool/-xdjames-bot/followers"><img title="Followers" src="https://img.shields.io/github/followers/Ramlan666?color=blue&style=flat-square"></a>
+<a href="https://github.com/XDJamesCool/-xdjames-bot/followers"><img title="Followers" src="https://img.shields.io/github/followers/XDJamesCool?color=blue&style=flat-square"></a>
 <a href="https://github.com/Ramlan666/babybot/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Ramlan666/babybotcolor=red&style=flat-square"></a>
 <a href="https://github.com/Ramlan666/babybot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Ramlan666/babybot?color=red&style=flat-square"></a>
 <a href="https://github.com/Ramlan666/babybot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Ramlan666/babybot?label=Watchers&color=blue&style=flat-square"></a>
