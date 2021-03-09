@@ -1,5 +1,5 @@
 /*
-]=====> RAMLAN ID <=====[ ]=====> YT Ramlan ID <=====[ ]=====> 085559240360 <=====[
+]=====> XDJames <=====[ ]====> 082297358232 <=====[
 */
 // ANAK ANJING PASTI YANG ATAS DI UBAH
 // NGOTAK KONSOL
@@ -62,9 +62,9 @@ const {
 // POWERED BY RAMLAN ID
 prefix = '#'
 blocked = []   
-limitawal = 30
-memberlimit = 5
-cr = '𝐕𝐄𝐑𝐈𝐅𝐈𝐄𝐃'
+limitawal = 50
+memberlimit = 2
+cr = 'BOT INI SUDAH TERVERIFIKASI'
 
 // LOAD JSON
 const _leveling = JSON.parse(fs.readFileSync('./database/group/leveling.json'))
@@ -1891,7 +1891,7 @@ break
                       const one = 999999999
                       addLevelingXp(sender, one)
                       addLevelingLevel(sender, 99)
-                      reply(`karena Ramlan baik Bot memberikan ${one}Xp >_<`)
+                      reply(`karena XDJames baik Bot memberikan ${one}Xp >_<`)
                       }else{
                       const mining = Math.ceil(Math.random() * 10000)
                       addLevelingXp(sender, mining)
