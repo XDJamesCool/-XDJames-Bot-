@@ -67,7 +67,7 @@ Ket: Aktiv 24 jam
 
 ## SOSIAL MEDIA ADMIN <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="29px">
 
-p
+* [`Facebook Admin `]
 
 * [`WhatsApp Admin `](https://wa.me/6282297358232)
 * [`Group WhatsApp `](https://chat.whatsapp.com/Eb4niW86N3kHbMjgmdL4WU)
